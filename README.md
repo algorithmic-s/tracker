@@ -1,12 +1,12 @@
 
-project description:
+            project description:
 This is a basic design of an issue tracker,
 with the UI enhanced throug Bootstrap and CSS,
 and the Javascript functions enable it to work
 and track issues. A random ID is generated with each
 new issue that is submitted through the form.
 
-languages used: Javascript, CSS, HTML
+            languages used: Javascript, CSS, HTML
 
 How to view this project:
 -download the zipped files
