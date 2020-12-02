@@ -1,0 +1,64 @@
+body {
+    background-color: white;
+    color: black;
+
+font-family: "Times New Roman", Times, serif;
+font-size: 15px;
+letter-spacing: 0.6px;
+word-spacing: 0.2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+.container {
+    text-align:center;
+}
+.title {
+    font-size: 35px;
+    text-align:center;
+
+font-family: "Times New Roman", Times, serif;
+
+letter-spacing: 0.6px;
+word-spacing: 0.2px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
+}
+.label-info{
+    color: navy;
+}
+.well {
+    border: .8px solid rgb(98, 98, 98);
+    border-radius: 17px;
+    background-color: rgba(226, 226, 226, 0.787);
+    padding:20px;
+    margin:20px;
+}
+.caption {
+    font-size: 13px;
+    text-align:center;
+}
+
+.links {
+    color: blue;
+}
+.btn-info{
+    background-color: white;
+    border: .7px solid turquoise;
+    margin: 3px;
+}
+.btn-warning{
+    border: .7px solid black;
+    margin: 3px;
+}
+.btn-danger{
+    border: .7px solid black;
+    margin: 3px;
+}

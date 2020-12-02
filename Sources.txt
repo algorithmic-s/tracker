@@ -1,0 +1,28 @@
+
+
+
+
+            goals for creating this simple project:
+
+- to learn how to create pure javascript applications
+and use the code as a template for future studies
+
+  comprehend how to use Pure javascript
+despite frameworks like React, Angular, and Vue.js
+that make it simplier to write single page web applications, pure javascript
+can be used to create the same results.
+
+
+
+
+            RESOURCES REFERENCED:
+
+bootstrap
+https://getbootstrap.com/docs/4.3/getting-started/introduction/
+
+chance.js - random ID number generator
+https://chancejs.com/
+
+local storage
+https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+
